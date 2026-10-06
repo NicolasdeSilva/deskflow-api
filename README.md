@@ -21,7 +21,7 @@ ciclo de vida do atendimento, histórico de interações e filtros de consulta.
 ### Passo a passo
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/deskflow-api.git
+   git clone https://github.com/NicolasdeSilva/deskflow-api.git
    ```
 2. Acesse a pasta do projeto:
    ```bash
@@ -44,7 +44,7 @@ ciclo de vida do atendimento, histórico de interações e filtros de consulta.
    ```
 6. Acesse o Swagger: https://localhost:7000/swagger
 
-## 📌 Endpoints
+##  Endpoints
 
 | Método | Rota | Descrição | Sucesso |
 |--------|------|-----------|---------|
